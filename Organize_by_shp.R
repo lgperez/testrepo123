@@ -1,3 +1,4 @@
+Testing how the pull request works
 ## Script to get the images corresponding to the area inside a polygon from a folder.
 ## Assuming the Coordinate system of the geotagg is WGS84
 ## For RedEdge camera imagery
